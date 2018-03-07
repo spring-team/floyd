@@ -1,3 +1,5 @@
+// I believe in you. You can do the thing!
+
 package com.infoq;
 
 import org.springframework.boot.SpringApplication;
